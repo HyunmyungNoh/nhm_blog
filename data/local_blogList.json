@@ -20,10 +20,6 @@
         "download_url": "/blog/[20240505]_[블로그 글 양식]_[markdown]_[test_1.jpg]_[마크다운 양식입니다. 참고하여 블로그 글을 작성해주세요. 각 언어별 하이라이팅도 지원합니다.]_[].md"
     },
     {
-        "name": "[20240619]_[블로그첫날]_[로그]_[]_[].md",
-        "download_url": "/blog/[20240619]_[블로그첫날]_[로그]_[]_[].md"
-    },
-    {
         "name": "[date]_[title]_[category]_[thumnail]_[description]_[author].md",
         "download_url": "/blog/[date]_[title]_[category]_[thumnail]_[description]_[author].md"
     }
